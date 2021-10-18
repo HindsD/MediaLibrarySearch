@@ -1,0 +1,5 @@
+2021-10-18 09:15:57.2742|INFO|MediaLibrarywSearch.Program|Program started
+2021-10-18 09:15:57.4156|INFO|MediaLibrarywSearch.MovieFile|Movies in file 9128
+2021-10-18 09:15:58.5134|INFO|MediaLibrarywSearch.Program|User choice: "3"
+2021-10-18 09:16:04.1457|INFO|MediaLibrarywSearch.Program|User choice: ""
+2021-10-18 09:16:04.1457|INFO|MediaLibrarywSearch.Program|Program ended

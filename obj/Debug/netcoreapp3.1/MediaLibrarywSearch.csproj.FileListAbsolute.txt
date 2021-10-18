@@ -1,0 +1,17 @@
+E:\code stuff\MediaLibrarywSearch\bin\Debug\netcoreapp3.1\MediaLibrarywSearch.exe
+E:\code stuff\MediaLibrarywSearch\bin\Debug\netcoreapp3.1\MediaLibrarywSearch.deps.json
+E:\code stuff\MediaLibrarywSearch\bin\Debug\netcoreapp3.1\MediaLibrarywSearch.runtimeconfig.json
+E:\code stuff\MediaLibrarywSearch\bin\Debug\netcoreapp3.1\MediaLibrarywSearch.runtimeconfig.dev.json
+E:\code stuff\MediaLibrarywSearch\bin\Debug\netcoreapp3.1\MediaLibrarywSearch.dll
+E:\code stuff\MediaLibrarywSearch\bin\Debug\netcoreapp3.1\MediaLibrarywSearch.pdb
+E:\code stuff\MediaLibrarywSearch\bin\Debug\netcoreapp3.1\NLog.dll
+E:\code stuff\MediaLibrarywSearch\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+E:\code stuff\MediaLibrarywSearch\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+E:\code stuff\MediaLibrarywSearch\obj\Debug\netcoreapp3.1\MediaLibrarywSearch.csprojAssemblyReference.cache
+E:\code stuff\MediaLibrarywSearch\obj\Debug\netcoreapp3.1\MediaLibrarywSearch.AssemblyInfoInputs.cache
+E:\code stuff\MediaLibrarywSearch\obj\Debug\netcoreapp3.1\MediaLibrarywSearch.AssemblyInfo.cs
+E:\code stuff\MediaLibrarywSearch\obj\Debug\netcoreapp3.1\MediaLibrarywSearch.csproj.CoreCompileInputs.cache
+E:\code stuff\MediaLibrarywSearch\obj\Debug\netcoreapp3.1\MediaLibrarywSearch.csproj.CopyComplete
+E:\code stuff\MediaLibrarywSearch\obj\Debug\netcoreapp3.1\MediaLibrarywSearch.dll
+E:\code stuff\MediaLibrarywSearch\obj\Debug\netcoreapp3.1\MediaLibrarywSearch.pdb
+E:\code stuff\MediaLibrarywSearch\obj\Debug\netcoreapp3.1\MediaLibrarywSearch.genruntimeconfig.cache
